@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.TwoSum", "P1.TwoSum\P1.TwoSum.csproj", "{D7220433-E72F-4250-9CD1-0C5138C9AA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{0E0F8403-FE9D-4F64-AAA5-281B42B87D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.AddTwoNumbers", "P2.AddTwoNumbers\P2.AddTwoNumbers.csproj", "{F321F075-EFA7-4EE1-B5E0-146D0939F7D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7220433-E72F-4250-9CD1-0C5138C9AA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7220433-E72F-4250-9CD1-0C5138C9AA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7220433-E72F-4250-9CD1-0C5138C9AA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7220433-E72F-4250-9CD1-0C5138C9AA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0F8403-FE9D-4F64-AAA5-281B42B87D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0F8403-FE9D-4F64-AAA5-281B42B87D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0F8403-FE9D-4F64-AAA5-281B42B87D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0F8403-FE9D-4F64-AAA5-281B42B87D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F321F075-EFA7-4EE1-B5E0-146D0939F7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F321F075-EFA7-4EE1-B5E0-146D0939F7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F321F075-EFA7-4EE1-B5E0-146D0939F7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F321F075-EFA7-4EE1-B5E0-146D0939F7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
