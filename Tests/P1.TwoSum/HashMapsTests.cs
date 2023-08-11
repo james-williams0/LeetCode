@@ -41,4 +41,16 @@ public class TwoSumHashMapSolutionTests
         
         Assert.Equal(expected, actual);
     }
+    
+    [Fact]
+    public void Given_2_5_5_11_AndTarget_10_Expect_1_2()
+    {
+        var nums = new[] { 2, 5, 5, 11 };
+        const int target = 10;
+        var expected = new[] { 1, 2 };
+
+        var actual = _solution.TwoSum(nums, target);
+        
+        Assert.Equal(expected, actual);
+    }
 }
